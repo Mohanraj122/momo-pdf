@@ -1,0 +1,2 @@
+rootProject.name = "momopdf-android"
+include ':app'

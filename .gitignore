@@ -1,0 +1,28 @@
+.vercel
+venv/
+__pycache__/
+*.pyc
+.vscode/
+uploads/
+
+# Android build and local files
+**/build/
+**/.gradle/
+**/.idea/
+**/local.properties
+local.properties
+.gradle/
+.idea/
+build/
+
+
+# Temporary and test outputs
+*.zip
+*.pdf
+*.xlsx
+*output.*
+*.log
+!test_sig.png
+!dummy.jpg
+
+
